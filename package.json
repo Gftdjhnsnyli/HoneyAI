@@ -35,7 +35,7 @@
     "publish": [
       {
         "provider": "github",
-        "owner": "YOUR_GITHUB_USER",
+        "owner": "https://github.com/Gftdjhnsnyli",
         "repo": "HoneyAI"
       }
     ],

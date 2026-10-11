@@ -1,5 +1,8 @@
 # Dependencies
 op.md
+CHANGELOG.md
+using.md
+dialogue.md
 node_modules/
 .pnp
 .pnp.js
@@ -8,7 +11,6 @@ node_modules/
 # Build outputs (electron-vite + electron-builder)
 out/
 dist/
-release/
 *.exe
 *.msi
 *.dmg
